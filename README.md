@@ -428,7 +428,4 @@ For issues, questions, or suggestions:
 - [OpenAI API Docs](https://platform.openai.com/docs)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs)
 
----
 
-**Last Updated**: August 2026  
-**Version**: 1.0.0
